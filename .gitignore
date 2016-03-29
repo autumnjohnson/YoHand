@@ -1,5 +1,4 @@
 libpd/
-makeit.sh
 makeqt.sh
 *.o
 .qmake.stash
@@ -10,5 +9,5 @@ YoHand.app/
 qMakefile
 yohand
 build-YoHand-Desktop_Qt_5_5_1_clang_64bit-Debug/
-yohand.pro.user
+YoHand.pro.user
 moc_*
